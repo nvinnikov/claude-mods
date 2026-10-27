@@ -1,0 +1,5 @@
+{
+  "name": "titler",
+  "version": "0.1.0",
+  "description": "Keeps the session title and its herdr tab/workspace label on the current topic (Haiku summary after turns, at most every 10 min); /title to pin or turn off, CLAUDE_TITLER=0 to disable"
+}

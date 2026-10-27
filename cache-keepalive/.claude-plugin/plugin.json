@@ -1,0 +1,5 @@
+{
+  "name": "cache-keepalive",
+  "version": "0.1.0",
+  "description": "Keeps an idle session's prompt cache warm with a cheap fork ping every 50 min; on by default, /keepalive off or CLAUDE_KEEPALIVE=0 to disable"
+}
