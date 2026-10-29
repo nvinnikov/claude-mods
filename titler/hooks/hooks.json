@@ -1,4 +1,0 @@
-{
-  "description": "titler hooks module",
-  "modules": ["./register.js"]
-}

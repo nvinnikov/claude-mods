@@ -1,13 +1,8 @@
 {
   "name": "claude-mods",
   "owner": { "name": "nvinnikov" },
-  "description": "Claude Code mods: session titles that follow the topic (titler) and a warm prompt cache while idle (cache-keepalive)",
+  "description": "Claude Code mod: a warm prompt cache while idle (cache-keepalive)",
   "plugins": [
-    {
-      "name": "titler",
-      "source": "./titler",
-      "description": "Keeps the session title and its herdr tab/workspace label on the current topic"
-    },
     {
       "name": "cache-keepalive",
       "source": "./cache-keepalive",
